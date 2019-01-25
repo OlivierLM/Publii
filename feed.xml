@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Publii test website</title>
+    <link href="https://olivier.github.io/Publii/feed.xml" rel="self" />
+    <link href="https://olivier.github.io/Publii" />
+    <updated>2019-01-25T14:19:27+01:00</updated>
+    <author>
+        <name>Olivier Le Monnier</name>
+    </author>
+    <id>https://olivier.github.io/Publii</id>
+
+    <entry>
+        <title>Recul</title>
+        <author>
+            <name>Olivier Le Monnier</name>
+        </author>
+        <link href="https://olivier.github.io/Publii/recul.html"/>
+        <id>https://olivier.github.io/Publii/recul.html</id>
+
+        <updated>2019-01-25T14:08:53+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://olivier.github.io/Publii/media/posts/1/" alt="" />
+                    Hier, à la radio, j'ai entendu un journaliste invité interviewé par un de ses confrères expliquant : « j'étais avec eux [les gilets jaunes] lorsque la nouvelle du décès d'une manifestante à Rennes a commencé à circuler. Mon travail de journaliste consiste à prendre du recul, expliquer&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://olivier.github.io/Publii/media/posts/1/" alt="" />
+                <p>Hier, à la radio, j'ai entendu un journaliste invité interviewé par un de ses confrères expliquant : « j'étais avec eux [les gilets jaunes] lorsque la nouvelle du décès d'une manifestante à Rennes a commencé à circuler.  Mon travail de journaliste consiste à <strong>prendre du recul</strong>, expliquer que la nouvelle n'est pas confirmée, ce qui ne veut pas dire qu'elle est fausse, mais qu'elle l'est peut-être… ».</p>
+<p>« Prendre du recul », c'est aussi ce que je dis régulièrement à mes étudiants en informatique lors des séances de travaux pratiques.  Il faut parfois (souvent ?) s'extraire de l'activité en cours, prendre du recul, pour mieux agir après réflexion.  Quel est le lien entre l'expérience relatée par ce journaliste, sa posture professionnelle et la mienne ?</p>
+<p>Pour aller plus loin, j'ai essayé de formuler les questions à se poser lors de ce recul, de manière aussi générique que possible.  Le résultat ressemble à s'y méprendre aux questions posées aux embranchements l'on pourrait trouver dans un logigramme décisionnel.  Mais je n'aime pas les chemins tous tracés.  Et puis j'ai aussi un peu la flemme de « fabriquer » une image…</p>
+<ul>
+<li>Pourquoi, dans quel but suis-je en tran de mener cette action ?</li>
+<li>Cette action est-elle atomique ?  Existe-t-il des variantes qui pourraient mener au même résultat ?  Pourquoi cette action là plutôt qu'une autre ?</li>
+<li>Puis-je vérifier que cette action conduit au résultat attendu ?  Comment ?</li>
+<li>Quels sont les éléments impliqués ?  Sur quoi suis-je en train d'agir ?</li>
+</ul>
+<p><em>To be continued…</em></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
